@@ -1,2 +1,5 @@
+# Mark this if contributors are to be added as outside collaborators to your repository
+# If this is true, team name in config will be ignored
+isOutside: true
 # Team Name
 team: testers
